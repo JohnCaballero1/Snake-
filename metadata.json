@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake Reactivo",
+  "description": "Un juego de Snake moderno y fluido construido con React y Canvas, con controles de dificultad y estadísticas en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
